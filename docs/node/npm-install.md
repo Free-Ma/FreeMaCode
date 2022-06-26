@@ -33,15 +33,9 @@ npm ERR!     C:\Users\admin\AppData\Local\npm-cache\_logs\2022-03-29T07_32_19_74
 
 原因是 `npm` 版本不对应
 
-### 方案一
+使用 `nvm` 指定 `node` 和 `npm` 版本;或者使用 `yarn` 作为包管理器
 
-[使用 `nvm` 指定 `node` 和 `npm` 版本](../../base/node/README.md)
-
-### 方案二
-
-[下载并使用 `yarn` 作为包管理器](../../base/node/README.md/#yarn)
-
-:::tip
+::: tip
 删除 `package-lock.json` 文件
 
 如果有 `node_modules` 文件夹，也要删除

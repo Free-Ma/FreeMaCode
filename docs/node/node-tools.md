@@ -1,6 +1,6 @@
 ## nvm
 
-Windows 下载 [nvm]((https://github.com/coreybutler/nvm-windows/releases))，安装好之后切换镜像源
+Windows 下载 [nvm](https://github.com/coreybutler/nvm-windows/releases)，安装好之后切换镜像源
 
 ```sh
 nvm node_mirror https://npm.taobao.org/mirrors/node/
