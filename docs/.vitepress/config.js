@@ -4,6 +4,7 @@ import nodeModule from './module-node'
 import webpackModule from './module-webpack'
 
 export default {
+  base: '/FreeMaCode',
   title: 'VitePress',
   description: 'Just playing around',
   themeConfig: {
