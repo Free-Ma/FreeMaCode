@@ -1,0 +1,1 @@
+import{_ as s,c as n,o as a,a as l}from"./app.08516853.js";const i=JSON.parse('{"title":"Symbol","description":"","frontmatter":{},"headers":[{"level":2,"title":"Coding","slug":"coding"}],"relativePath":"js/symbol.md"}'),p={name:"js/symbol.md"},o=l("",11),e=[o];function t(c,r,F,y,D,C){return a(),n("div",null,e)}var f=s(p,[["render",t]]);export{i as __pageData,f as default};

@@ -1,0 +1,1 @@
+import{_ as s,c as n,o as a,a as l}from"./app.08516853.js";const i=JSON.parse('{"title":"EventBus","description":"","frontmatter":{},"headers":[],"relativePath":"js/event-bus.md"}'),p={name:"js/event-bus.md"},o=l("",7),e=[o];function t(c,r,y,F,D,A){return a(),n("div",null,e)}var d=s(p,[["render",t]]);export{i as __pageData,d as default};
