@@ -23,7 +23,7 @@ npm i @babel/cli @babel/core -D
 npx babel src --out-dir dist
 ```
 
-- 比如需要抓换肩头函数, 那么就可以使用肩头函数转换相关的插件:
+- 比如需要转换箭头函数, 那么就可以使用箭头函数转换相关的插件:
 ```bash
 npm i @babel/plugin-transform-arrow-functions -D
 npx babel src --out-dir dist --plugins=@babel/plugin-transform-arrow-functions

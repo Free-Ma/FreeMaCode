@@ -6,7 +6,9 @@ export default [
       { text: 'css-loader', link: '/webpack/css-loader' },
       { text: '其他资源', link: '/webpack/other-resources' },
       { text: '插件', link: '/webpack/plugins' },
-      { text: 'babel', link: '/webpack/babel' }
+      { text: 'babel', link: '/webpack/babel' },
+      { text: 'dev-server', link: '/webpack/dev-server' },
+      { text: 'vue-env', link: '/webpack/vue-env' },
     ]
   }
 ]
