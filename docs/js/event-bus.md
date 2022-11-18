@@ -20,5 +20,5 @@ console.log(333)
 
 手写一个 `event-bus`
 :::details Code
-<<< @/all-code/event-bus.js
+<<< @/all-code/js/event-bus.js
 :::

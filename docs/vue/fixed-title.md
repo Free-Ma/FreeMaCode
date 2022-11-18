@@ -13,8 +13,8 @@
 ### 具体代码
 
 :::details Vue
-<<< @/all-code/index-list.vue
+<<< @/all-code/vue/index-list.vue
 :::
 
 :::details use-fixed.js
-<<< @/all-code/use-fixed.js
+<<< @/all-code/vue/use-fixed.js

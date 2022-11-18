@@ -28,15 +28,15 @@
 
 1. 简单实现一个响应式函数，对一个对象内的所有 `key` 添加响应式的特性。
    ::: details code
-   <<< @/all-code/defineProperty.js
+   <<< @/all-code/vue/defineProperty.js
    :::
 2. 那 `Vue` 中对于数组类型是怎么处理的，简单模拟一下对于数组方法的监听
    ::: details code
-   <<< @/all-code/array.js
+   <<< @/all-code/vue/array.js
    :::
 3. 能否监听对象属性的删除操作，基于 `proxy` 实现一下响应式.
    ::: details code
-   <<< @/all-code/proxy.js
+   <<< @/all-code/vue/proxy.js
    :::
 
 ## 虚拟 DOM，优缺点
@@ -63,5 +63,5 @@
 
 1. 给一段数据结构，将其转换为真实的 `dom`
    ::: details code
-   <<< @/all-code/virsual-dom.js
+   <<< @/all-code/vue/virsual-dom.js
    :::

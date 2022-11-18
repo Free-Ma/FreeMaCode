@@ -19,7 +19,7 @@ function obj() {
 
 1. 让一个对象可遍历
    ::: details Code
-   <<< @/all-code/symbol.js
+   <<< @/all-code/js/symbol.js
    :::
 
 2. JSON.stringify 会忽略 symbol? 除了这个，还会忽略什么呢？
@@ -36,10 +36,10 @@ undefined function
 
 5. 实现一个深拷贝
    ::: details Code
-   <<< @/all-code/deep-clone.js
+   <<< @/all-code/js/deep-clone.js
    :::
 
 6. 请手写一个 instanceof
    ::: details Code
-   <<< @/all-code/instanceof.js
+   <<< @/all-code/js/instanceof.js
    :::

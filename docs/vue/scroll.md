@@ -22,9 +22,9 @@
 ## 具体代码
 
 :::details scroll.vue
-<<< @/all-code/scroll.vue
+<<< @/all-code/vue/scroll.vue
 :::
 
 :::details use-scroll.js
-<<< @/all-code/use-scroll.js
+<<< @/all-code/vue/use-scroll.js
 :::

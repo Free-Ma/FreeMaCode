@@ -53,19 +53,19 @@
 1. 把创造 `directive` 的逻辑抽象出来
 
 :::details create-loading-like-directive.js
-<<< @/all-code/create-loading-like-directive.js
+<<< @/all-code/vue/create-loading-like-directive.js
 :::
 
 2. 因为是 `dom` 操作, 为了把相同的功能都放在一起, 所以抽象出来放在 `dom.js` 里面
 
 :::details dom.js
-<<< @/all-code/dom.js
+<<< @/all-code/vue/dom.js
 :::
 
 3. 使用 `createLoadingLikeDirective`
 
 :::details directive.js
-<<< @/all-code/directive.js
+<<< @/all-code/vue/directive.js
 :::
 
 4. 在 `main.js` 注册指令

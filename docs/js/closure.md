@@ -110,15 +110,15 @@ fn(2)
 
 1. 实现一个 `compose`
    :::details Code
-   <<< @/all-code/compose.js
+   <<< @/all-code/js/compose.js
    :::
 
 2. 柯里化函数
    :::details Code
-   <<< @/all-code/currying.js
+   <<< @/all-code/js/currying.js
    :::
 
 3. koa-compose
    :::details Code
-   <<<@/all-code/koa-compose.js
+   <<<@/all-code/js/koa-compose.js
    :::

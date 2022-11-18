@@ -18,4 +18,7 @@ hero:
     - theme: alt
       text: webpack
       link: /webpack/base-use
+    - theme: alt
+      text: vim
+      link: /vim/base
 ---

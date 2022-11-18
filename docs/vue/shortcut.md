@@ -16,9 +16,9 @@
 ### 具体代码
 
 :::details Vue
-<<< @/all-code/index-list.vue
+<<< @/all-code/vue/index-list.vue
 :::
 
 :::details use-shortcut.js
-<<< @/all-code/use-shortcut.js
+<<< @/all-code/vue/use-shortcut.js
 :::

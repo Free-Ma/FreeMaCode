@@ -5,7 +5,16 @@ export default [
     items: [
       { text: 'vue2响应式原理', link: '/vue/base' }
     ]
-  }, {
+  },
+  {
+    text: '工具',
+    collapsible: true,
+    collapsed: true,
+    items: [
+      { text: 'Pinia', link: '/vue/pinia' }
+    ]
+  },
+  {
     text: 'vue实际应用',
     collapsible: true,
     collapsed: true,
