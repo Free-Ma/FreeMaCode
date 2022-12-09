@@ -8,7 +8,7 @@ hero:
   actions:
     - theme: alt
       text: javascript
-      link: /js/operator
+      link: /js/closure
     - theme: alt
       text: vue
       link: /vue/base
