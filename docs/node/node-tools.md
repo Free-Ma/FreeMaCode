@@ -3,8 +3,8 @@
 Windows 下载 [nvm](https://github.com/coreybutler/nvm-windows/releases)，安装好之后切换镜像源
 
 ```sh
-nvm node_mirror https://npm.taobao.org/mirrors/node/
-nvm npm_mirror https://npm.taobao.org/mirrors/npm/
+nvm node_mirror https://npmmirror.com/mirrors/node/
+nvm npm_mirror https://npmmirror.com/mirrors/npm/
 ```
 
 列出远程服务器上所有的可用版本
@@ -25,9 +25,13 @@ npm -v
 设置源和查看源
 
 ```sh
-npm config set registry https://registry.npm.taobao.org/
+# 修改国内源
+npm config set registry https://registry.npmmirror.com
 
 npm config get registry
+
+# 还原
+npm config set registry https://registry.npmjs.org
 ```
 
 查看指定包远程库最新版本
@@ -56,7 +60,7 @@ yarn set version stable
 设置镜像源, 并查看镜像源
 
 ```sh
-yarn config set registry https://registry.npm.taobao.org/
+yarn config set registry https://registry.npmmirror.com/
 
 yarn config get registry
 ```
